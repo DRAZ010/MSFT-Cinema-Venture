@@ -146,3 +146,17 @@ Thumbs.db
 
 # config file
 config.py
+
+# updated .csv files
+extfranchises.csv
+extfranchises_clean.csv
+Franchises.csv
+franchises_clean.csv
+imbd_name_basics_clean.csv
+imbd_title_akas_clean.csv
+imbd_title_crew_clean.csv
+imbd_title_principals_clean.csv
+imbd_title_ratings_clean.csv
+movie_budgets_clean.csv
+rt_movie_clean.csv
+tmdv_movies_clean.csv
