@@ -12,11 +12,11 @@ The Data Utilized:
 
 Technologies:
 * Jupyter Notebooks
-* Python 3
-* Pandas 1.0.5
-* Matplotlib 3.2.2
-* Seaborn 0.10.1
-* Statistics 3.4
+* `Python 3`
+* `Pandas 1.0.5`
+* `Matplotlib 3.2.2`
+* `Seaborn 0.10.1`
+* `Statistics 3.4`
 
 Objective: Our objective with this analysis is to provide information to Microsoft so they can assess the criteria for a successful entry into the movie production business. 
 
