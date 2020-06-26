@@ -47,7 +47,7 @@ Insights:
 Recommendation:
 As stated, there does not appear to be a relationship between investment level and return on investment.  We recommend focusing on other criteria when determining an optimal budget for a movie.
 
-##Seasonality
+## Seasonality
 
 The time of year to release a movie is an easy factor to control.  From a layman's point of view it seems that blockbusters are released only at certain times of the year.  For example, there never appears to be successful movies released in January.  We decided to explore and confirm whether or not there is a seasonal component to profitability.
 
