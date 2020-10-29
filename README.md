@@ -37,7 +37,7 @@ Assumptions:
 * We assume that extreme outliers are not relevant to this analysis and removed any data further than 2 standard deviations from the median. The median is more appropriate than the mean in this case as a measure of central tendency due to the significant skew to the right side of the distribution.
 
 ![Imgur](https://i.imgur.com/m9dRizk.png)
-[Imgur](https://i.imgur.com/3rmFEhI.png)
+![Imgur](https://i.imgur.com/3rmFEhI.png)
 
 We decided to use a scatter plot here so we could easily see how each variable changes relative to the other variable. 
 
